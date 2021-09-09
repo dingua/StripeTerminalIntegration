@@ -1,0 +1,16 @@
+PODS:
+  - PaymentSDK (1.0)
+
+DEPENDENCIES:
+  - PaymentSDK (from `../PaymentSDK`)
+
+EXTERNAL SOURCES:
+  PaymentSDK:
+    :path: "../PaymentSDK"
+
+SPEC CHECKSUMS:
+  PaymentSDK: cb836840cc356cceb72ba283ffa28a1601b3f926
+
+PODFILE CHECKSUM: 55c0b51cef3945187a2018d291d650a9e1391df7
+
+COCOAPODS: 1.11.0
